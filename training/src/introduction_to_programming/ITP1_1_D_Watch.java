@@ -18,7 +18,7 @@ Sample Output
 
 import java.util.Scanner;
 
-public class Watch {
+public class ITP1_1_D_Watch {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int num1 = scanner.nextInt();

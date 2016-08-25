@@ -36,7 +36,7 @@ a == b*/
 
 import java.util.Scanner;
 
-public class Small_Large_orEqual {
+public class ITP1_2_A_Small_Large_orEqual {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int num1 = scanner.nextInt();

@@ -25,7 +25,7 @@ Sample Output 2
 
 import java.util.Scanner;
 
-public class X_Cubic {
+public class ITP1_1_B_X_Cubic {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println((int) Math.pow(scanner.nextInt(), 3));

@@ -20,7 +20,7 @@ Sample Output
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SortingThreeNumbers {
+public class ITP1_2_C_SortingThreeNumbers {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int num1 = scanner.nextInt();

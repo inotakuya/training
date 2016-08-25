@@ -10,7 +10,7 @@ Input
 Output
 各行に "Hello World" と書かれた 1000 行の文字列を出力して下さい。*/
 
-public class PrintManyHelloWorld {
+public class ITP1_3_A_PrintManyHelloWorld {
 	public static void main(String[] args) {
 		for (int i = 0; i < 1000; i++)
 			System.out.println("Hello World");

@@ -23,7 +23,7 @@ No*/
 
 import java.util.Scanner;
 
-public class Range {
+public class ITP1_2_B_Range {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int num1 = scanner.nextInt();

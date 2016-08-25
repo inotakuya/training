@@ -25,7 +25,7 @@ Constraints
 
 import java.util.Scanner;
 
-public class PrintTestCases {
+public class ITP1_3_B_PrintTestCases {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int i = 1;

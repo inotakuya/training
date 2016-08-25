@@ -19,7 +19,7 @@ Sample Output
 
 import java.util.Scanner;
 
-public class Rectangle {
+public class ITP1_1_C_Rectangle {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		String[] line = scanner.nextLine().split(" ");
