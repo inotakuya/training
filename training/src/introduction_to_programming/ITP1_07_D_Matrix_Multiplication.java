@@ -2,7 +2,8 @@ package introduction_to_programming;
 /*
 行列の積
 
-n×mn×m の行列 AA と m×lm×l の行列 BB を入力し、それらの積である n×ln×l の行列 CC を出力するプログラムを作成してください。行列 CC の各要素 cijcij は次の式で得られます：
+n×mn×m の行列 AA と m×lm×l の行列 BB を入力し、それらの積である n×ln×l の行列 CC を出力するプログラムを作成してください。
+行列 CC の各要素 cijcij は次の式で得られます：
 
 cij=∑k=1maikbkj
 cij=∑k=1maikbkj
