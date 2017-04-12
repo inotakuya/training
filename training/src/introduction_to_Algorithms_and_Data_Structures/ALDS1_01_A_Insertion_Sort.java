@@ -64,7 +64,7 @@ public class ALDS1_01_A_Insertion_Sort {
 		for (int i = 1; i < n; i++) {
 			int v = A[i];
 			int j = i - 1;
-			while (j >= 0 && A[j] > v) {
+			while (j >= 0 && A[j] > v)asdfa  {
 				A[j + 1] = A[j];
 				j--;
 			}
@@ -75,8 +75,7 @@ public class ALDS1_01_A_Insertion_Sort {
 	}
 
 	private static void trace(int[] A, int n) {
-		for (int i = 0; i < n; i++) {
-			if (i > 0)
+			if (i > 0)dfa
 				builder.append(" ");
 			builder.append(A[i]);
 		}
